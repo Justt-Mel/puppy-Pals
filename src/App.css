@@ -40,3 +40,22 @@
 .read-the-docs {
   color: #888;
 }
+.App{
+  padding: 2rem;
+  border: 5px dashed burlywood;
+  background-color: aqua;
+}
+div > ul {
+  border: 3px solid gray;
+}
+div > h2 {
+  border: 3px solid gray;
+}
+div > p {
+  border: 3px solid;
+  border-color: darkolivegreen;
+  padding: 5rem;
+}
+body{
+  background-color: blanchedalmond;
+}
